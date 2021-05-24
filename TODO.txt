@@ -1,0 +1,6 @@
+- Create first repository - done
+- Add a file to repo - done
+- Check out
+- Add task list - done
+- Make an edit in github
+- Pull from remote
